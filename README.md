@@ -33,7 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma-codes&show_icons=true&locale=en" alt="adityasharma-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma-codes&" alt="adityasharma-codes" /></p>-->
-<h6 align="left">🔭 I’m currently working on MERN Stack<br><br>    🌱🌱 Expanding Skills: Exploring Socket.io, Object-Relational Mapping, and React<br><br>    👯 I’m looking to collaborate on Java Projects<br><br>    💬 Ask me about Node.js, Java, MySQL, MongoDB<br><br>    📫 How to reach me adityaomsharma2004@gmail.com<br><br>    📄 Know about my experiences https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing</h6>
+<h6 align="left">🔭 I’m currently working on MERN Stack<br><br>    🌱🌱 Expanding Skills: Exploring Socket.io, Object-Relational Mapping, and React<br><br>    👯 I’m looking to collaborate on Java Projects<br><br>    💬 Ask me about Node.js, Java, MySQL, MongoDB<br><br>    📫 How to reach me **adityaomsharma2004@gmail.com**
+<br><br>    📄 Know about my experiences [https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing](https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing)</h6>
 
 ###
 
