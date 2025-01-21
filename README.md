@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, MySelf Aditya Sharma</h1>
+<!-- <h1 align="center">Hi 👋, MySelf Aditya Sharma</h1>
 <h3 align="center">Targeting Software Developer roles with an organization of high repute with a scope of improving knowledge and further career growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma-codes&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma-codes" /> </p>
@@ -32,5 +32,60 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma-codes&show_icons=true&locale=en" alt="adityasharma-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma-codes&" alt="adityasharma-codes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma-codes&" alt="adityasharma-codes" /></p>-->
+<h6 align="left">🔭 I’m currently working on MERN Stack<br><br>    🌱🌱 Expanding Skills: Exploring Socket.io, Object-Relational Mapping, and React<br><br>    👯 I’m looking to collaborate on Java Projects<br><br>    💬 Ask me about Node.js, Java, MySQL, MongoDB<br><br>    📫 How to reach me adityaomsharma2004@gmail.com<br><br>    📄 Know about my experiences https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing</h6>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma-codes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharma-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=adityasharma-codes&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="300" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adityasharma-codes/adityasharma-codes/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h5 align="left">⚡ Fun fact t the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"</h5>
+
+###
 
