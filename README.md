@@ -95,7 +95,7 @@
 
 ###
 
-- ⚡ Fun fact **t the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"**
+> ⚡ **Fun Fact:** _"Meet the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"_
 
 
 ###
