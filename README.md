@@ -5,17 +5,18 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱🌱 Expanding Skills: **Exploring Socket.io, Object-Relational Mapping, and React**
-
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **Node.js, Java, MySQL, MongoDB**
+- 🔭 **Current Focus:** Crafting dynamic projects with **Node.js** and **Next.js**
 
-- 📫 How to reach me **adityaomsharma2004@gmail.com**
+- 🌱 **Expanding Skills:** Exploring **Socket.io**, **Object-Relational Mapping**, and **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing](https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing)
+- 💬 **Ask Me About:** **Node.js**, **Java**, **MySQL**, **MongoDB**
 
-- ⚡ Fun fact **t the coding maestro – leading with passion, orchestrating code with creativity, and infusing kindness into each binary beat!"**
+- 📬 **Reach Me:** **adityaomsharma2004@gmail.com**
+
+- 📃 [**View My Experiences**]([https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link](https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,17 +34,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma-codes&show_icons=true&locale=en" alt="adityasharma-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma-codes&" alt="adityasharma-codes" /></p>-->
-- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱🌱 Expanding Skills: **Exploring Socket.io, Object-Relational Mapping, and React**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **Node.js, Java, MySQL, MongoDB**
+- 🔭 **Current Focus:** Crafting dynamic projects with **Node.js** and **Next.js**
 
-- 📫 How to reach me **adityaomsharma2004@gmail.com**
+- 🌱 **Expanding Skills:** Exploring **Socket.io**, **Object-Relational Mapping**, and **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing](https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing)
+- 💬 **Ask Me About:** **Node.js**, **Java**, **MySQL**, **MongoDB**
+
+- 📬 **Reach Me:** **adityaomsharma2004@gmail.com**
+
+- 📃 [**View My Experiences**]([https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link](https://drive.google.com/file/d/1S-3ZvhwPv_Vt4rS4pAPYLk6MIK6SubJf/view?usp=sharing)
 
 ###
 
