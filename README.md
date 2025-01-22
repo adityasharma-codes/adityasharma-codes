@@ -14,7 +14,7 @@
 - 💬 **Ask Me About:** **Node.js**, **Java**, **MySQL**, **MongoDB**
 
 - 📬 **Reach Me:** **adityaomsharma2004@gmail.com**
-
+  
 -  📃 [**View My Experiences**](https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
@@ -59,7 +59,7 @@
 ###
 
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">🚀 Tech Stack </h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -153,7 +153,7 @@
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  </a>
+  </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
