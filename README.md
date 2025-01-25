@@ -14,8 +14,7 @@
 - 💬 **Ask Me About:** **Node.js**, **Java**, **MySQL**, **MongoDB**
 
 - 📬 **Reach Me:** **adityaomsharma2004@gmail.com**
-  
--  📃 [**View My Experiences**](https://drive.google.com/file/d/1mWdtiszO0h30UAPUVBjdUOleooPVms15/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
