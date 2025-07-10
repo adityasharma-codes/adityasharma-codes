@@ -56,9 +56,8 @@ I'm a detail-oriented Computer Science undergraduate with a strong foundation in
 
 ### 🤖 AI, Data & Other  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="60" style="margin:15px"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="margin:15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="60" style="margin:15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" style="margin:15px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" style="margin:15px"/>
 </p>
