@@ -32,13 +32,13 @@ I'm a detail-oriented Computer Science undergraduate with a strong foundation in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="margin:10px"/>
 </p>
 
 ### 🌐 Web & Backend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" style="margin:10px; background:white; border-radius:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" style="margin:10px"/>
@@ -52,17 +52,18 @@ I'm a detail-oriented Computer Science undergraduate with a strong foundation in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="50" style="margin:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Supabase_logo.svg" width="50" style="margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50" style="margin:10px"/>
 </p>
 
-### 🤖 AI & Other Tech  
+### 🤖 AI, Data & Other  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" style="margin:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Seaborn_logo.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" style="margin:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" style="margin:10px"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" style="margin:10px"/>
 </p>
+
 
 
 ---
