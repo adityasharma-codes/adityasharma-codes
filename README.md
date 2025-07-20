@@ -2,7 +2,8 @@
 
 🚀 Software Developer | 🔧 Backend Engineer | 💻 MERN Stack | ☁️ DevOps | ☕ Java Enthusiast  
 📍 Alwar, Rajasthan, India  
-📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com) | 📱 +91 7877705896
+📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com) | 📱 +91 7877705896 | 🌐 [Portfolio](https://aditya-portfolio-liart.vercel.app/)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-adityasharma--codes-black?logo=github)](https://github.com/adityasharma-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin)](https://www.linkedin.com/in/adityasharma0001/)
