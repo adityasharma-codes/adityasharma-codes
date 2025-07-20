@@ -5,13 +5,35 @@
 📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com) | 📱 +91 7877705896 | 🌐 [Portfolio](https://aditya-portfolio-liart.vercel.app/)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-adityasharma--codes-black?logo=github)](https://github.com/adityasharma-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin)](https://www.linkedin.com/in/adityasharma0001/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-aadityasharmaa-orange?logo=codechef)](https://www.codechef.com/users/aadityasharmaa)
-[![HackerRank](https://img.shields.io/badge/HackerRank-adityaomsharma21-green?logo=hackerrank)](https://www.hackerrank.com/profile/adityaomsharma21)
-[![LeetCode](https://img.shields.io/badge/LeetCode-adityaomsharma2004-yellow?logo=leetcode)](https://leetcode.com/u/adityaomsharma2004/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-adityaomsharma2004-blueviolet?logo=codeforces)](https://codeforces.com/profile/adityaomsharma2004)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Aditya__Sharma__-informational?logo=atcoder)](https://atcoder.jp/users/Aditya_Sharma_)
+<p align="left">
+  <a href="https://github.com/adityasharma-codes">
+    <img src="https://img.shields.io/badge/GitHub-adityasharma--codes-black?logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityasharma0001/">
+    <img src="https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin" />
+  </a>
+  <a href="https://www.codechef.com/users/aadityasharmaa">
+    <img src="https://img.shields.io/badge/CodeChef-aadityasharmaa-orange?logo=codechef" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/adityaomsharma21">
+    <img src="https://img.shields.io/badge/HackerRank-adityaomsharma21-green?logo=hackerrank" />
+  </a>
+  <a href="https://leetcode.com/u/adityaomsharma2004/">
+    <img src="https://img.shields.io/badge/LeetCode-adityaomsharma2004-yellow?logo=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/adityaomsharma2004">
+    <img src="https://img.shields.io/badge/Codeforces-adityaomsharma2004-blueviolet?logo=codeforces" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://atcoder.jp/users/Aditya_Sharma_">
+    <img src="https://img.shields.io/badge/AtCoder-Aditya__Sharma__-informational?logo=atcoder" />
+  </a>
+</p>
 
 
 ---
