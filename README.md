@@ -6,9 +6,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/adityasharma-codes">
-    <img src="https://img.shields.io/badge/GitHub-adityasharma--codes-black?logo=github" />
-  </a>
+
   <a href="https://www.linkedin.com/in/adityasharma0001/">
     <img src="https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin" />
   </a>
