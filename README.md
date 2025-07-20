@@ -10,6 +10,9 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-aadityasharmaa-orange?logo=codechef)](https://www.codechef.com/users/aadityasharmaa)
 [![HackerRank](https://img.shields.io/badge/HackerRank-adityaomsharma21-green?logo=hackerrank)](https://www.hackerrank.com/profile/adityaomsharma21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-adityaomsharma2004-yellow?logo=leetcode)](https://leetcode.com/u/adityaomsharma2004/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-adityaomsharma2004-blueviolet?logo=codeforces)](https://codeforces.com/profile/adityaomsharma2004)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Aditya__Sharma__-informational?logo=atcoder)](https://atcoder.jp/users/Aditya_Sharma_)
+
 
 ---
 
