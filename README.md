@@ -145,7 +145,7 @@ Chat app with real-time messaging and scalable architecture
 
 ---
 
-> 🧠 *“Building efficient systems isn't just a goal, it's a mindset.”*
+> 🧠 *“Building efficient systems isn't just a goal, it's a mindset. ”*
 
 ---
 
