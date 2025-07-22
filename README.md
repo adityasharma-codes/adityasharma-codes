@@ -7,7 +7,7 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/adityasharma0001/">
+  <a href="https://www.linkedin.com/in/adityasharma0001/" style="none">
     <img src="https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin" />
   </a>
   
