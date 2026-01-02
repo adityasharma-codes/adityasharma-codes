@@ -1,7 +1,7 @@
 # Hi there 👋 I'm  Aditya Sharma
 
 🚀 Software Developer | 🔧 Backend Engineer | 💻 MERN Stack | ☁️ DevOps | ☕ Java Enthusiast  
-📍 Rajasthan, India  
+📍 Alwar, Rajasthan, India  
 📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com) | 📱 +91 7877705896 | 🌐 [Portfolio](https://aditya-portfolio-liart.vercel.app/)
 
 
