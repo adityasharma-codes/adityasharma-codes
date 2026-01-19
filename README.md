@@ -1,4 +1,4 @@
-# Hii👋 I am Aditya Sharma 
+# Hi👋 I am Aditya Sharma 
 
 🚀 Software Developer | 🔧 Backend Engineer | 💻 MERN STACK | ☁️ DevOps | ☕ Java Enthusiast 
 📍 Alwar Rajasthan, India  
