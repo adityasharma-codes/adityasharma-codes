@@ -1,6 +1,7 @@
 # Hey👋 I am Aditya Sharma 
 
-🚀 Software Developer | 🔧 Backend Engineer | 💻 MERN STACK | ☁️ DevOps | ☕ Java Enthusiast 
+🚀 Software Developer | 🔧 Backend Engineer | 💻 MERN STACK | ☁️ DevOps | ☕ Java Enthusiast
+
 📍 Alwar Rajasthan, India  
 📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com)  | 🌐 [Portfolio](https://aadii.tech/)
 
