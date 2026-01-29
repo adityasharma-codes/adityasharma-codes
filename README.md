@@ -7,8 +7,10 @@
 📧 [adityaomsharma2004@gmail.com](mailto:adityaomsharma2004@gmail.com)  | 🌐 [Portfolio](https://aadii.tech/)
 
  
+
 <p align="left">
 
+  
   <a href="https://www.linkedin.com/in/adityasharma0001/" >
     <img src="https://img.shields.io/badge/LinkedIn-adityasharma0001-blue?logo=linkedin" />
   </a>
